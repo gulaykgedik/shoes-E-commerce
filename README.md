@@ -34,17 +34,17 @@ This project was built using the following technologies:
 - Login with role-based redirection (admin / user)
 
 ## ✅ Features
-Role-based login system (Admin / User)
+- Role-based login system (Admin / User)
 
-Product CRUD operations (for Admin)
+- Product CRUD operations (for Admin)
 
-Form management and validation
+- Form management and validation
 
-Data fetching with caching
+- Data fetching with caching
 
-Notification system
+- Notification system
 
-Fully responsive design
+- Fully responsive design
 
 ## 📸 Screenshots
 
